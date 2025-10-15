@@ -34,7 +34,7 @@ Since **Telegra.ph is banned in India**, this bot uses **Graph.org** for posts a
 
 ## 🚀 Easy Deployment
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-AnoNymouS/Telegraph-Uploader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrdevil42023/Telegraph-Uploader)
 
 1. Get your **API HASH** & **API ID** from [my.telegram.org](https://my.telegram.org/auth?to=apps).
 2. Get your **Bot Token** from [@BotFather](https://t.me/BotFather).
