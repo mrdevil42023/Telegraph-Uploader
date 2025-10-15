@@ -132,18 +132,14 @@ async def start_handlers(_: Bot, message: Message) -> None:
             [
                 [
                     InlineKeyboardButton(
-                        "👨‍💻 My Creator", url="https://t.me/The_proGrammerr"
+                        "👨‍💻 My Creator", url="http://t.me/mrdevil12"
                     ),
-                    InlineKeyboardButton(
-                        "🛠 Source Code",
-                        url="https://github.com/Ns-AnoNymouS/Telegraph-Uploader",
-                    ),
-                ],
+                    
                 [
                     InlineKeyboardButton(
-                        "📌 Updates", url="https://t.me/NsBotsOfficial"
+                        "📌 Updates", url="https://t.me/devilbots971"
                     ),
-                    InlineKeyboardButton("❤️ Support", url="https://t.me/amcDevSupport"),
+                    InlineKeyboardButton("❤️ Support", url="https://t.me/devilbotsupport"),
                 ],
             ]
         ),
